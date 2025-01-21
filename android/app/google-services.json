@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "481082150882",
+    "firebase_url": "https://onlinefirebase-f38fc-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-f38fc",
+    "storage_bucket": "onlinefirebase-f38fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481082150882:android:e051ec9d9ce011cf7273bb",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_apisara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtkzJgTydsQGGW7-1aBxaLPz2h4CRaIWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
